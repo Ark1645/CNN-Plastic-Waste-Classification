@@ -1,4 +1,4 @@
-Dataset
+**Dataset**
 The dataset used for this project is the Waste Classification Data by Sashaank Sekar. It contains a total of 25,077 labeled images, divided into two categories: Organic and Recyclable. This dataset is designed to facilitate waste classification tasks using machine learning techniques.
 
 Key Details:
